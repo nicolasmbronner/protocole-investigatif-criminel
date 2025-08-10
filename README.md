@@ -457,13 +457,16 @@ Chaque chapitre évolue selon retours d'expérience :
 
 ---
 
-## ⚡ **PRINCIPE D'ITÉRATION**
+## ⚡ **PRINCIPE D'ITÉRATION RÉVISÉ**
 
-Chaque chapitre sera développé individuellement avec :
-- **Théorie approfondie** (références académiques)
-- **Exemples concrets** (multiples niveaux)
-- **Cas pratique complet** (application A à Z)
-- **Templates utilisables** (immédiatement opérationnels)
-- **Connexions avec autres chapitres** (cohérence globale)
+Chaque chapitre sera développé individuellement selon cette méthodologie éprouvée :
 
-Le squelette évoluera au fur et à mesure des développements pour maintenir la cohérence d'ensemble.
+- **Théorie approfondie** : Références académiques systématiques basées sur "Introduction to Criminal Investigation.pdf" et sources validées du domaine
+- **Exemples multiples intégrés** : Illustrations concrètes tout au long des explications pour transformer les concepts abstraits en applications pratiques et visuelles
+- **Templates opérationnels** : Outils immédiatement utilisables reprenant fidèlement chaque thème et sous-thème développé dans le chapitre
+- **Démonstrations par l'exemple** : Chaque template accompagné d'un exemple concret montrant son utilisation remplie et contextualisée
+- **Collections Bullet Journal** : Quand applicable, proposer des structures de collections spécialisées avec exemples de mise en œuvre dans le carnet
+- **Cohérence inter-chapitres** : Connexions explicites avec les chapitres existants, relecture systématique pour maintenir l'alignement global du protocole
+- **Application séquentielle complète** : Cas pratique détaillé de A à Z concluant chaque chapitre et démontrant l'intégration de tous les concepts appris
+
+Le squelette évoluera de manière itérative pour préserver la cohérence d'ensemble tout en enrichissant progressivement la profondeur opérationnelle.
